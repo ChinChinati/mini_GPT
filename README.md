@@ -1,4 +1,3 @@
----
 # mini_GPT: A Smaller Version of ChatGPT-3
 ### Project Source Code: [[Github]](https://github.com/ChinChinati/mini_GPT/)
 
@@ -30,13 +29,13 @@ By implementing mini_GPT from scratch, I gained hands-on experience with the fol
 
 Although the generated text often didn’t make sense, working with **mini_GPT** deepened my understanding of how LLMs function and how training parameters affect model performance. The experience with embeddings, attention mechanisms, and optimization techniques was invaluable for future work in the field of NLP.
 
----
+
 
 ## Project Source Code
 
 You can find the complete source code and implementation details in the [mini_GPT GitHub Repository](https://github.com/ChinChinati/mini_GPT/).
 
----
+
 
 ## Code Usage Guidelines
 
